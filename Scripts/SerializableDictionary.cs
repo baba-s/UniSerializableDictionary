@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UniSerializableDictionary
+namespace Kogane
 {
 	/// <summary>
 	/// シリアライズ可能な Dictionary

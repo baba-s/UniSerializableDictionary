@@ -1,12 +1,12 @@
-# Uni Serializable Dictionary
+﻿# Uni Serializable Dictionary
 
 Dictionary を Inspector で設定できるようにするクラス
 
 ## 使用例
 
 ```cs
+using Kogane;
 using System;
-using UniSerializableDictionary;
 using UnityEngine;
 
 public class Example : MonoBehaviour

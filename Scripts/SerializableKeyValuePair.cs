@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace UniSerializableDictionary
+namespace Kogane
 {
 	/// <summary>
 	/// シリアライズ可能な KeyValuePair
